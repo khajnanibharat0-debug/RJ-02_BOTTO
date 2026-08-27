@@ -82,7 +82,7 @@ Click the button below to fork KANGO-XMD Repository to your GitHub account:
     <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 
-[![Deploy on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/github/OfficialKango/KANGO-XMD-LITE)
+[![Deploy on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/github/khajnanibharat0-debug/RJ-02_BOTTO )
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
