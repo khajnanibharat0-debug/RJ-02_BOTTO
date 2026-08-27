@@ -117,7 +117,7 @@ Click the button below to fork KANGO-XMD Repository to your GitHub account:
 <br>
 > Click below to download the bot file :
 <p align="left">
-<a href="https://github.com/OfficialKango/KANGO-XMD-LITE/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-green" alt="Rainhost Files" width="150"></a>
+<a href="https://github.com/khajnanibharat0-debug/RJ-02-BOTTO/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-green" alt="Rainhost Files" width="150"></a>
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
   
